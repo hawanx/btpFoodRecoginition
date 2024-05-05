@@ -1,0 +1,9 @@
+.idea
+pics
+plag_report
+PPT.pptx
+Report.pdf
+backend/venv
+backend/.idea
+frontend/node_modules
+frontend/.vscode
